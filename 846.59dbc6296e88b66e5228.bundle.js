@@ -1,0 +1,1 @@
+(self.webpackChunkgraphqlsummit2021rewind=self.webpackChunkgraphqlsummit2021rewind||[]).push([[846],{2846:(e,s,r)=>{"use strict";r.r(s)}}]);
