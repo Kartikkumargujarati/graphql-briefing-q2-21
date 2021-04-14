@@ -1,11 +1,10 @@
 meta:
   url:
-  title:
-  description:
-  siteName:
+  title: GraphQL Summit 2021 Rewind
+  description: A look back at all the presentations at GraphQL Summit 2021.
+  siteName: GraphQL Summit 2021 Rewind
   sns: ['twitter']
 slide:
-  loop: false
   ui:
     sidebar: true
     vertical: false

@@ -1,4 +1,16 @@
 {
+  "name": "graphqlsummit2021rewind",
+  "version": "1.0.0",
+  "description": "A look back at all the presentations at GraphQL Summit 2021.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx fusuma start",
+    "start:prod": "npx fusuma start-prod",
+    "build": "npx fusuma build",
+    "pdf": "npx fusuma pdf"
+  },
+  "author": "Kartik Kumar Gujarati <kartikkumargujarati@gmail.com> (kartikkumargujarati.github.io) ",
+  "license": "MIT",
   "devDependencies": {
     "fusuma": "^2.8.3"
   }
