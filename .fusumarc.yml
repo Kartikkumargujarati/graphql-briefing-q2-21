@@ -5,6 +5,7 @@ meta:
   siteName: GraphQL Summit 2021 Rewind
   sns: ['twitter']
 slide:
+  loop: false
   ui:
     sidebar: true
     vertical: false
