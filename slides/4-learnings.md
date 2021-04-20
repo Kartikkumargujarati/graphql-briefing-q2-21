@@ -1,3 +1,0 @@
-<!-- section-title: Learnings -->
-
-## 🧠 Learnings
