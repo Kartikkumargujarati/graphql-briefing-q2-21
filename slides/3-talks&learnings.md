@@ -12,10 +12,10 @@
     <br />
     <ul> 
         <li>
-        <h7> Issues with Complex Systems </h7>
+            <h7> Issues with Complex Systems </h7>
         </li>
         <li>
-        <h7> "Slowball" effect </h7>
+            <h7> "Slowball" effect </h7>
         </li>
     </ul>
     <br />
@@ -23,21 +23,21 @@
     <br />
     <ul> 
         <li>
-        <h7> Clear boundaries </h7>
+            <h7> Clear boundaries </h7>
         </li>
         <li>
-        <h7> Decoupled Systems </h7>
+            <h7> Decoupled Systems </h7>
         </li>
         <li>
-        <h7> Small changes </h7>
+            <h7> Small changes </h7>
         </li>
         <li>
-        <h7> Ship often </h7>
+            <h7> Ship often </h7>
         </li>
         <li>
-        <h7> Make it easy to ship </h7>
+            <h7> Make it easy to ship </h7>
         </li>
     </ul>
     <br />
 </div>
-<br />
+
