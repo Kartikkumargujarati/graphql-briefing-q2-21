@@ -12,7 +12,7 @@
     <br />
     <ul> 
         <li>
-            <h7> Issues with Complex Systems </h7>
+            <h7> Issues with complex systems </h7>
         </li>
         <li>
             <h7> "Slowball" effect </h7>
@@ -26,7 +26,7 @@
             <h7> Clear boundaries </h7>
         </li>
         <li>
-            <h7> Decoupled Systems </h7>
+            <h7> Decoupled systems </h7>
         </li>
         <li>
             <h7> Small changes </h7>
@@ -68,7 +68,47 @@
             <h7> Principled GraphQL </h7>
         </li>
         <li>
-            <h7> Entity Normalization </h7>
+            <h7> Entity normalization </h7>
+        </li>
+    </ul>
+    <br />
+</div>
+<br />
+
+---
+
+## Subscriptions with Federated Data
+
+###### _Mandi Wise, Solutions Architect, Apollo GraphQL_
+
+<div> 
+    <br />
+    <ul> 
+        <li>
+            <h7> GraphQL subscriptions </h7>
+        </li>
+        <li>
+            <h7> Separate endpoint </h7>
+        </li>
+        <li>
+            <h7> Schema re-use </h7>
+        </li>
+    </ul>
+    <br />
+    <h6> Considerations </h6>
+    <br />
+    <ul> 
+        <li>
+            <h7> Use only when needed </h7>
+        </li>
+        <li>
+            <h7> Single service </h7>
+        </li>
+        <li>
+            <h7> Caching </h7>
+        </li>
+        <li>
+            <h7> Data consistency </h7>
         </li>
     </ul>
     <br />
