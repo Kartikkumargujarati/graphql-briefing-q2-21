@@ -41,3 +41,36 @@
     <br />
 </div>
 
+---
+
+## Acquiring a Data Graph
+
+###### _Taz Singh, Founder, Guildd.io_
+
+<div> 
+    <br />
+    <ul> 
+        <li>
+            <h7> Challenges with big data graphs </h7>
+        </li>
+        <li>
+            <h7> Inconsistency with entities </h7>
+        </li>
+    </ul>
+    <br />
+    <h6> Learnings </h6>
+    <br />
+    <ul> 
+        <li>
+            <h7> Align on the naming </h7>
+        </li>
+        <li>
+            <h7> Principled GraphQL </h7>
+        </li>
+        <li>
+            <h7> Entity Normalization </h7>
+        </li>
+    </ul>
+    <br />
+</div>
+<br />
