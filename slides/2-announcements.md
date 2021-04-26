@@ -1,3 +1,3 @@
-<!-- section-title: Announcements -->
+<!-- section-title: What\'s New -->
 
-## 📣 Announcements
+## 📣 What's New

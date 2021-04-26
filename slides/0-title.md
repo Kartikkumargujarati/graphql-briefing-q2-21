@@ -1,5 +1,5 @@
 <!-- classes: title -->
 
-# GraphQL Summit 2021
-## Rewind ⏪
+# GraphQL Briefing 🌎
+## Q2 2021
 

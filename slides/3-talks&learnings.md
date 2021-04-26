@@ -1,4 +1,4 @@
-<!-- section-title: Talks & Learnings -->
+<!-- section-title: GraphQL Summit Talks & Learnings -->
 
 ##  🗣 Talks & Learnings 🧠 
 
