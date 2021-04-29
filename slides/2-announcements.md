@@ -51,3 +51,25 @@
     </ul>
     <br />
 </div>
+
+---
+
+## Subscriptions
+
+###### _Federation support_
+
+<div>
+    <br />
+    <ul> 
+        <li>
+            <h7> Read-only operations </h7>
+        </li>
+        <li>
+            <h7> Pub-sub model </h7>
+        </li>
+        <li>
+            <h7> Separate end-point </h7>
+        </li>
+    </ul>
+    <br />
+</div>
