@@ -115,7 +115,39 @@ query {
 
 ---
 
-## Testing Best Practices
+## Other Considerations
+<div> 
+    <br />
+    <ul> 
+        <li>
+            <h7> Understanding query performance during development </h7>
+        </li>
+        <li>
+            <h7> Alerting on long running queries </h7>
+        </li>
+        <li>
+            <h7> Query design with security in mind </h7>
+        </li>
+        <li>
+            <h7> Do not pass user identifiers with queries </h7>
+        </li>
+        <li>
+            <h7> Governance Team </h7>
+        </li>
+        <li>
+            <h7> Building patterns </h7>
+        </li>
+        <li>
+            <h7> Include people in the process </h7>
+        </li>
+    </ul>
+    <br />
+</div>
+<br />
+
+---
+
+## 🛠 Tooling for Testing
 <div> 
     <br />
     <ul> 
